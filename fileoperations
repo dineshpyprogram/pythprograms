@@ -1,3 +1,4 @@
+# Reading a file that has string names in it
 file = open('/home/dinesh/duplicates_file', 'r')
 t = file.readlines()
 l = []
